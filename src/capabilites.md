@@ -1,0 +1,3 @@
+# Capabilities
+
+Capabilities, or account.capabilities, are a part of the security model in Cadence. They represent the right to access parts of or all of the object and perform operations on it. For example. a user might possess a vault that holds fungible tokens. In this case, they'll have the capability that allows anyone to deposit tokens into the vault, and may choose to grant the capability to withdraw tokens to their broker's account.
